@@ -22,20 +22,6 @@ Além disso, o sistema agrupa as vendas por vendedor e calcula a comissão total
 * xUnit
 * Testes unitários
 
-## 📁 Estrutura do projeto
-
-```text
-DesafioTarget/
-│
-├── ComissaoVendas/
-│   ├── Models/
-│   ├── Services/
-│   ├── Program.cs
-│   └── ComissaoVendas.csproj
-│
-└── ComissaoVendas.Tests/
-    ├── ComissaoServiceTests.cs
-    └── ComissaoVendas.Tests.csproj
 ```
 
 ## 🚀 Como executar o projeto
